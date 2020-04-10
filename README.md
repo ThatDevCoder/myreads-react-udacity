@@ -1,4 +1,4 @@
-# Udacity's Google Developer Challenger Scholarship - Front End Web Development
+Udacity's Google Developer Challenger Scholarship - Front End Web Development
 
 
 ```
