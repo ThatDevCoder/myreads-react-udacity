@@ -36,6 +36,7 @@ Or :
 - Also Install :
 
 * react-router-dom package [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+* throttle-debounce package [throttle-debounce](https://www.npmjs.com/package/throttle-debounce)
 
 ### Note :
 
