@@ -1,4 +1,4 @@
-Udacity's Google Developer Challenger Scholarship - Front End Web Development
+# Udacity's Google Developer Challenger Scholarship - Front End Web Development
 
 
 ```
@@ -58,7 +58,6 @@ In this application, the main page displays a list of "shelves" (i.e. categories
 
 ## Dependencies
 
-- The starter code is provided by Udacity for the Udacity FEND's students.
 - Project was bootstrappedwith [Create React App](https://github.com/facebook/create-react-app)
 - [React Rooter from](https://reacttraining.com/react-router/web/example/url-params)
 - Favicon generated via [favicon-generator](https://www.favicon-generator.org/)
